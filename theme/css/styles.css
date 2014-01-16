@@ -34,3 +34,6 @@
 .menu li:hover ul li {
 	float:none;
 }
+.mod {
+	clear: both;
+}
